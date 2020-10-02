@@ -6,7 +6,7 @@ def show_model_windows():
 
 
 def Pizza_M(*args):
-    Marg = (int(MargeriteSpin1.get())*150)+(int(MargeriteSpin2.get())*300)+(int(MargeriteSpin3.get())*1000)
+    Marg = (int(MargeriteSpin1.get())*150)+(int(MargeriteSpin2.get())*300)+(int(MargeriteSpin3.get())*1200)
     Champ = (int(ChampignonSpin1.get())*180)+(int(ChampignonSpin2.get())*350)+(int(ChampignonSpin3.get())*1300)
     Napo = (int(NapolitanaSpin1.get())*250)+(int(NapolitanaSpin2.get())*450)+(int(NapolitanaSpin3.get())*1700)
     Tho = (int(ThonSpin1.get())*250)+(int(ThonSpin2.get())*450)+(int(ThonSpin3.get())*1700)
